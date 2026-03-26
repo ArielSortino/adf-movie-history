@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-movie-adf",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8eb6758f-ca51-4500-9cc9-99e542a225b0",
+		"tenantId": "7288d01d-836a-4e66-a91d-8d3d7e5fa6f4"
+	}
+}
